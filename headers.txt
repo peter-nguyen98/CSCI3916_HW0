@@ -1,0 +1,48 @@
+Expires →Sun, 03 Feb 2019 23:57:37 GMT
+Indicated when the request will expire.
+
+Date →Sun, 03 Feb 2019 23:57:37 GMT
+Date & time when a request is sent (currently in the GMT time zone).
+
+Cache-Control →private, max-age=0, must-revalidate, no-transform
+→private
+  This indicates that the response is intended for a single user and must not be stored by a shared cache.
+max-age=0
+  This indicates the maximum amount of time a resource will be considered "new".
+must-revalidate
+  This indicates that a validation of resources must be complete before using them.
+no-transform
+  No transformations, alterations or conversions should be made to the resource. 
+
+ETag →"IUREzboS_XZycecz4xfru1ipYfo/OrWtxhg-Qeja915Mv_Dg7KLp8pA"
+An internet protcol header used for web cashe vailidation.
+
+Vary →Origin
+Indicates to browsers that server responses can differ based on the value of the origin request header.
+
+Vary →X-Origin
+Cross-Origin request header.
+
+Content-Type →application/json; charset=UTF-8
+Communicates to the client the content type of the returned content.
+
+Content-Encoding →gzip
+This header is used to compress the media-type.
+
+X-Content-Type-Options →nosniff
+This hheader is a marker used by the server to indicate that the MIME types advertised in the Content-Type headers should not be changed.
+
+X-Frame-Options →SAMEORIGIN
+This header is used to indicate whether or not a browser should be allowed to render a page in a <frame>, <iframe>, <embed> or <object>
+
+X-XSS-Protection →1; mode=block
+This hheader is a feature of Internet Explorer, Chrome and Safari that stops pages from loading when they detect reflected cross-site scripting (XSS) attacks.
+
+Server →GSE
+The name of the software that is responsible for the request.
+
+Alt-Svc →quic=":443"; ma=2592000; v="44,43,39"
+This hheader is used to list alternate ways to reach this website.
+
+Transfer-Encoding →chunked
+This specifies the encoding used to securely transfer the entity to the user.
