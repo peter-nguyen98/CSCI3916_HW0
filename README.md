@@ -1,4 +1,1 @@
-# week1
-# CSC3916_HW0
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/3701afbe3191ae18ab24)
-"# CSC3916_HW0" 
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/3c01b77399c932e176da#?env%5BHW0%5D=W3sia2V5IjoiYm9va190aXRsZSIsInZhbHVlIjoiIiwiZGVzY3JpcHRpb24iOiIiLCJlbmFibGVkIjp0cnVlfSx7InZhbHVlIjoiIiwia2V5IjoiaWQiLCJlbmFibGVkIjp0cnVlfV0=)
